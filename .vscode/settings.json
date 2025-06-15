@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "random": "cpp"
+    },
+    "salesforcedx-vscode-slds.file.scopeWithInSFDX": false
+}
